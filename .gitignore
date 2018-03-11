@@ -1,0 +1,12 @@
+# maven ignore
+/target/
+*/target/
+.project
+.classpath
+.settings/
+*.iml
+.idea/
+#以下为Jrebel热部署创建得文件无需上传
+.rebel.xml
+.rebel.xml.bak
+# Created by .ignore support plugin (hsz.mobi)
